@@ -11,13 +11,14 @@
 
 A high-performance, modern, and secure **File Management System** built with **Cloudflare Workers**, **D1 Database**, and **Google Drive API**. This system allows users to leverage Google Drive as a powerful backend storage while providing a custom, elegant, and controlled interface.
 
-### **Demo Online** [Cloudflare Workers]((https://gdrive.tsc-hpc.workers.dev/))
-**Admin:**
+### **Demo Online**
+[Go to:]((https://gdrive.tsc-hpc.workers.dev/))
+**Admin account:**
  ```bash
 admin
 admin@1234
  ```
-**Demo:**
+**Demo account:**
  ```bash
 demo
 demo@1234
