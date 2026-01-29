@@ -1,18 +1,9 @@
-# Demo: 
-<a href="https://gdrive.tsc-hpc.workers.dev/">GDrive Demo</a>
-- Username: demo
-- Password: demo@1234
-
-- Username: administrator
-- Password: admin@1234
-
-
 # CloudDrive Manager 🚀
 
 A high-performance, modern, and secure **File Management System** built with **Cloudflare Workers**, **D1 Database**, and **Google Drive API**. This system allows users to leverage Google Drive as a powerful backend storage while providing a custom, elegant, and controlled interface.
 
 ### **Demo Online**
-[Go to:]((https://gdrive.tsc-hpc.workers.dev/))
+[Go to:](https://gdrive.tsc-hpc.workers.dev/)
 **Admin account:**
  ```bash
 admin
