@@ -214,7 +214,7 @@ function BaseLayout(title, content, headerScript = "", bodyScript = "", navTab =
 }
 
 const BotDetectScript = `
-<!--<script disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool" clear-log='true' disable-select='true' disable-copy='true' disable-cut='true' disable-paste='true'></script>-->
+<script disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool" clear-log='true' disable-select='true' disable-copy='true' disable-cut='true' disable-paste='true'></script>
     <script type="module">
         (function(_0x1a2b, _0x3c4d) {
             const _0x5e6f = {
